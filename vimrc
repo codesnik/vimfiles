@@ -3,6 +3,15 @@ call pathogen#runtime_append_all_bundles()
 "call pathogen#helptags()
 
 " Bundle: https://github.com/vim-scripts/fugitive.vim.git
+" Bundle: https://github.com/vim-scripts/rails.vim.git
+" Bundle: https://github.com/vim-scripts/file-line.git
+" Bundle: https://github.com/vim-scripts/matchit.zip.git
+" Bundle: https://github.com/vim-scripts/surround.vim.git
+" Bundle: https://github.com/vim-scripts/unimpaired.vim.git
+" Bundle: https://github.com/vim-scripts/endwise.vim.git
+" Bundle: https://github.com/vim-scripts/SuperTab.git
+" Bundle: https://github.com/vim-scripts/The-NERD-Commenter.git
+" Bundle: https://github.com/vim-scripts/vim-indent-object.git
 
 if $TERM =~ 'xterm'
     " ugliest amd most seamless way to make 256 colors work

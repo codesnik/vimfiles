@@ -1,3 +1,30 @@
 [submodule "bundle/fugitive.vim"]
 	path = bundle/fugitive.vim
 	url = https://github.com/vim-scripts/fugitive.vim.git
+[submodule "bundle/rails.vim"]
+	path = bundle/rails.vim
+	url = https://github.com/vim-scripts/rails.vim.git
+[submodule "bundle/file-line"]
+	path = bundle/file-line
+	url = https://github.com/vim-scripts/file-line.git
+[submodule "bundle/matchit.zip"]
+	path = bundle/matchit.zip
+	url = https://github.com/vim-scripts/matchit.zip.git
+[submodule "bundle/surround.vim"]
+	path = bundle/surround.vim
+	url = https://github.com/vim-scripts/surround.vim.git
+[submodule "bundle/unimpaired.vim"]
+	path = bundle/unimpaired.vim
+	url = https://github.com/vim-scripts/unimpaired.vim.git
+[submodule "bundle/endwise.vim"]
+	path = bundle/endwise.vim
+	url = https://github.com/vim-scripts/endwise.vim.git
+[submodule "bundle/SuperTab"]
+	path = bundle/SuperTab
+	url = https://github.com/vim-scripts/SuperTab.git
+[submodule "bundle/The-NERD-Commenter"]
+	path = bundle/The-NERD-Commenter
+	url = https://github.com/vim-scripts/The-NERD-Commenter.git
+[submodule "bundle/indent-object"]
+	path = bundle/indent-object
+	url = https://github.com/vim-scripts/vim-indent-object.git
