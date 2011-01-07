@@ -1,0 +1,8 @@
+*bundles.txt*                    Bundles                      Version 0.1
+
+These are the bundles installed on your system, along with their
+versions and release dates.  Downloaded on Fri Jan 07 20:25:08 +0300 2011.
+
+A version number of 'n/a' means upstream hasn't tagged any releases.
+  - |fugitive.vim|                 1.1                    2010-03-21
+

@@ -1,6 +1,8 @@
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
+" Bundle: https://github.com/vim-scripts/fugitive.vim.git
+
 if $TERM =~ 'xterm'
     " ugliest amd most seamless way to make 256 colors work
     set t_Co=256
