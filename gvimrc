@@ -1,0 +1,1 @@
+se fuoptions=maxhorz,maxvert
