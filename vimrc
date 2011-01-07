@@ -1,5 +1,6 @@
 call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
+" this is handled by vim-update-bundles
+"call pathogen#helptags()
 
 " Bundle: https://github.com/vim-scripts/fugitive.vim.git
 
