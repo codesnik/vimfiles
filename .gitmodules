@@ -28,3 +28,12 @@
 [submodule "bundle/indent-object"]
 	path = bundle/indent-object
 	url = https://github.com/vim-scripts/vim-indent-object.git
+[submodule "bundle/cucumber.zip"]
+	path = bundle/cucumber.zip
+	url = https://github.com/vim-scripts/cucumber.zip.git
+[submodule "bundle/The-NERD-tree"]
+	path = bundle/The-NERD-tree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/greplace.vim"]
+	path = bundle/greplace.vim
+	url = https://github.com/vim-scripts/greplace.vim.git

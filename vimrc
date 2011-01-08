@@ -11,7 +11,10 @@ call pathogen#runtime_append_all_bundles()
 " Bundle: https://github.com/vim-scripts/endwise.vim.git
 " Bundle: https://github.com/vim-scripts/SuperTab.git
 " Bundle: https://github.com/vim-scripts/The-NERD-Commenter.git
+" Bundle: https://github.com/vim-scripts/The-NERD-tree.git
 " Bundle: https://github.com/vim-scripts/vim-indent-object.git
+" Bundle: https://github.com/vim-scripts/cucumber.zip.git
+" Bundle: https://github.com/vim-scripts/greplace.vim.git
 
 if $TERM =~ 'xterm'
     " ugliest amd most seamless way to make 256 colors work
