@@ -1,7 +1,7 @@
 *bundles.txt*                    Bundles                      Version 0.1
 
 These are the bundles installed on your system, along with their
-versions and release dates.  Downloaded on Sat Jan 08 10:33:50 +0300 2011.
+versions and release dates.  Downloaded on Thu Jan 13 22:20:09 +0300 2011.
 
 A version number of 'n/a' means upstream hasn't tagged any releases.
   - |fugitive.vim|                 1.1                    2010-03-21
@@ -17,4 +17,5 @@ A version number of 'n/a' means upstream hasn't tagged any releases.
   - |indent-object|                1.1.2                  2010-04-06
   - |cucumber.zip|                 1.0                    2010-02-15
   - |greplace.vim|                 1.0b1                  2007-03-03
+  - |ack.vim|                      0.3.1                  2009-04-21
 

@@ -15,6 +15,7 @@ call pathogen#runtime_append_all_bundles()
 " Bundle: https://github.com/vim-scripts/vim-indent-object.git
 " Bundle: https://github.com/vim-scripts/cucumber.zip.git
 " Bundle: https://github.com/vim-scripts/greplace.vim.git
+" Bundle: https://github.com/vim-scripts/ack.vim.git
 
 if $TERM =~ 'xterm'
     " ugliest amd most seamless way to make 256 colors work
@@ -248,8 +249,7 @@ command! -bar AckGrep :se grepprg=ack
 
 "map <C-M> :
 
-map <F1> :Rfind 
-cmap <F1> <C-c>
+map <leader>f :Rfind 
 
 " join haml lines
 " g/^\s*[^% ]/normal kJ
